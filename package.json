@@ -1,0 +1,29 @@
+{
+  "name": "projectfinalhojadevida",
+  "version": "2.0.0",
+  "description": "final project, adding functions and everything working and uploaded in vercel and swagger",
+  "main": "dataBaseCv.js",
+  "scripts": {
+    "dev": "dataBaseCv.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeEnriqueRiveros/projectfinalcv-node.js-express-vercel-javascript-multer.git"
+  },
+  "author": "kikeriveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeEnriqueRiveros/projectfinalcv-node.js-express-vercel-javascript-multer/issues"
+  },
+  "homepage": "https://github.com/jorgeEnriqueRiveros/projectfinalcv-node.js-express-vercel-javascript-multer#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
