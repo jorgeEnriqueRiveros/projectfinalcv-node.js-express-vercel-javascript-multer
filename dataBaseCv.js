@@ -2,7 +2,6 @@ const express = require("express");
 const swaggerJsdoc = require("swagger-jsdoc");
 const swaggerUi = require("swagger-ui-express");
 const { Pool } = require("pg");
-const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
 const app = express();
