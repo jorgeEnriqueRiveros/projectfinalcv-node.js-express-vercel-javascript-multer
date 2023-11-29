@@ -92,12 +92,3 @@ Para desplegar la aplicación en Vercel, siga estos pasos:
 6. Seleccione el repositorio que desea importar y haga clic en "Importar".
 
 Vercel comenzará el proceso de despliegue para su repositorio seleccionado.
-
-**Cambios realizados**
-
-* Se han añadido iconos a los lenguajes utilizados en la creación de la base de datos.
-* Se han añadido los nombres de los iconos a las descripciones de los campos de la tabla de hoja de vida.
-
-**Ejemplo de uso de iconos en Markdown**
-
-Para utilizar icono
